@@ -71,3 +71,6 @@ Use the ENKI GitLab setup guide during class. As you work, complete the document
 - `v1.2.0 — Definitely Tested`: teacher-triggered controlled failure used for troubleshooting and recovery practice.
 
 For `v1.2.0`, investigate the evidence before changing anything. The fault is deliberately not documented in this starter.
+
+
+test Gwld
